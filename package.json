@@ -20,10 +20,8 @@
     "url": "https://github.com/GPPoseidon999/singleshadow.io/issues"
   },
   "homepage": "https://github.com/GPPoseidon999/singleshadow.io#readme",
-  "devDependencies": {
-    "vuepress": "^1.5.0"
-  },
   "dependencies": {
+    "vuepress": "^1.5.0",
     "vuepress-theme-reco": "^1.4.5"
   }
 }
