@@ -22,5 +22,8 @@
   "homepage": "https://github.com/GPPoseidon999/singleshadow.io#readme",
   "devDependencies": {
     "vuepress": "^1.5.0"
+  },
+  "dependencies": {
+    "vuepress-theme-reco": "^1.4.5"
   }
 }
