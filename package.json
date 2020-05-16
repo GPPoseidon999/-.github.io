@@ -1,27 +1,27 @@
 {
-  "name": "singleshadow.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GPPoseidon999/singleshadow.io.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GPPoseidon999/singleshadow.io/issues"
-  },
-  "homepage": "https://github.com/GPPoseidon999/singleshadow.io#readme",
-  "dependencies": {
-    "vuepress": "^1.5.0",
-    "vuepress-theme-reco": "^1.4.5"
-  }
+    "name": "singleshadow.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GPPoseidon999/singleshadow.io.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GPPoseidon999/singleshadow.io/issues"
+    },
+    "homepage": "https://github.com/GPPoseidon999/singleshadow.io#readme",
+    "devDependencies": {
+        "vuepress": "^1.4.0",
+        "vuepress-theme-reco": "^1.4.5"
+    }
 }
