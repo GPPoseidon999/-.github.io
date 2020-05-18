@@ -25,9 +25,9 @@ module.exports = {
             placeholder: '欢迎留言！',
             notify: true,
             verify: true,
-            avatar: "retro",
+            avatar: 'retro',
             visitor: true,
-            recordIP: true
+            recordIP: true,
         },
         // 博客配置
         blogConfig: {
@@ -61,7 +61,7 @@ module.exports = {
                 ],
             },
         ],
-
+        plugins: ['flowchart', 'vuepress-plugin-container'],
         startYear: '2017',
         lastUpdated: '2020',
         markdown: {
