@@ -63,7 +63,7 @@ module.exports = {
         ],
         plugins: ['flowchart', 'vuepress-plugin-container'],
         startYear: '2017',
-        lastUpdated: '2020',
+        lastUpdated: '上次更新',
         markdown: {
             lineNumbers: true, //代码显示行号
         },
