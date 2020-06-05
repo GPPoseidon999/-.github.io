@@ -7,6 +7,7 @@ tags:
     - Markdown
 ---
 
+[文档](https://v1.vuepress.vuejs.org/zh/guide/markdown.html#%E5%AF%BC%E5%85%A5%E4%BB%A3%E7%A0%81%E6%AE%B5)
 ::: tip
 This is a tip
 :::
@@ -29,8 +30,6 @@ This is a dangerous warning
 ::: details
 这是一个详情块，在 IE / Edge 中不生效
 :::
-
-
 
 @flowstart
 process=>operation: Operation
